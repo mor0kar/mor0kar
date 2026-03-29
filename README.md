@@ -104,21 +104,6 @@ Mein IT-Portfolio — Praxisprojekte, Skills, Kontakt.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mor0kar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=02040F&title_color=4F9EFF&icon_color=00F5C4&text_color=E8EDF8&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mor0kar&layout=compact&theme=tokyonight&hide_border=true&bg_color=02040F&title_color=4F9EFF&text_color=E8EDF8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mor0kar&theme=tokyonight&hide_border=true&background=02040F&stroke=1A2340&ring=4F9EFF&fire=00F5C4&currStreakLabel=E8EDF8&sideLabels=E8EDF8&dates=6B7A99)
-
-</div>
-
 ---
 
 <div align="center">
