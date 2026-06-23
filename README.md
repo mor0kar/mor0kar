@@ -26,7 +26,7 @@ location:   Germany 🇩🇪
 role:       IT Systems Administrator
 status:     Online – kein Ping verloren
 focus:      Infrastructure · Networking · System Operations
-website:    https://ping-me-maybe.pages.dev
+website:    https://ping-me.jnphl.de
 ```
 
 ---
@@ -67,7 +67,7 @@ website:    https://ping-me-maybe.pages.dev
 
 > Repos sind privat — hier ein Überblick was so läuft.
 
-### 🛍️ StitchUnited
+### 🛍️ StitchUnited (offline)
 **Private Trikot-Anfrageplattform** — Bundesliga & Nationalmannschaft Kollektion, Anfrage-Warenkorb, persönlicher Service. Gebaut für einen kleinen Kundenkreis.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
