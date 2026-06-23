@@ -31,7 +31,6 @@ website:    https://ping-me.jnphl.de
  
 ## 🧰 Tech Stack & Tools
  
-<div align="center">
 ### Systems & OS
 ![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003399?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -66,7 +65,6 @@ website:    https://ping-me.jnphl.de
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
  
-</div>
 ---
  
 ## 🏠 Homelab — J.A.R.V.I.S. Stack
@@ -149,3 +147,4 @@ E-Commerce Projekt — private Trikot-Anfrageplattform für Bundesliga & Nationa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-J4N-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janpuhle/)
  
 </div>
+ 
