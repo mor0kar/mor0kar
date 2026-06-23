@@ -1,4 +1,3 @@
-<div align="center">
 ```
  ██████╗ ██╗███╗   ██╗ ██████╗     ███╗   ███╗███████╗
  ██╔══██╗██║████╗  ██║██╔════╝     ████╗ ████║██╔════╝
@@ -14,7 +13,7 @@
  
 ---
  
-</div>
+ 
 ## 🛰️ Mission Control
  
 ```yaml
@@ -24,7 +23,7 @@ location:   Germany 🇩🇪
 role:       IT Systems Administrator
 status:     Online – kein Ping verloren
 focus:      Infrastructure · Networking · Homelab · Web Dev
-website:    https://ping-me.jnphl.de
+website:    https://jnphl.de
 ```
  
 ---
@@ -138,13 +137,9 @@ E-Commerce Projekt — private Trikot-Anfrageplattform für Bundesliga & Nationa
  
 ---
  
-<div align="center">
 ```
   Uptime: 99.9%  |  Latenzen: minimal  |  Spezi: kritisch
 ```
  
 [![Website](https://img.shields.io/badge/Website-ping--me.jnphl.de-4F9EFF?style=flat-square&logo=astro)](https://ping-me.jnphl.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-J4N-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janpuhle/)
- 
-</div>
- 
